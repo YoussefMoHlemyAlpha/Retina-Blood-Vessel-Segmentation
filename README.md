@@ -41,3 +41,4 @@ Batch Processing: Allow batch uploads and predictions to process multiple images
 Error Handling: Add more robust error handling to ensure the application is fault-tolerant.
 User Authentication: Implement user authentication for privacy and security, allowing users to store and track results.
 This project serves as a stepping stone towards creating powerful diagnostic tools that leverage machine learning for medical image analysis, providing valuable insights to healthcare professionals.
+![image](https://github.com/user-attachments/assets/95ce8b9e-0fe2-428d-b1fd-8b81e53b6ab1)
